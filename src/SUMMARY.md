@@ -1,4 +1,7 @@
 # Summary
 
 - [Main Page](./main.md)
-- [Chapter 1](./chapter_1.md)
+
+# SUFFERING Mod Api
+
+- [Getting Started](./SUFFERING-Mod-API/gettingStarted.md)

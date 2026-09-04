@@ -1,0 +1,3 @@
+# Getting Started - SUFFERING Mod API
+
+## CURRENTLY WORK IN PROGRESS!
