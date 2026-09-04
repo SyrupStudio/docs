@@ -2,9 +2,12 @@
 
 - [Main Page](./main.md)
 
-# SUFFERING Mod Api
+# SUFFERING Mod API
 
 - [Getting Started](./SUFFERING-Mod-API/gettingStarted.md)
+
+# SUFFERING Server Software
+- [Getting Started](./SUFFERING-Server-Software/gettingStarted.md)
 
 # dotenv.lua
 
