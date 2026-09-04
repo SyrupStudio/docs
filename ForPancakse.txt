@@ -1,0 +1,14 @@
+> [!NOTE]  
+> Makes note
+
+> [!IMPORTANT]  
+> Makes Important
+
+> [!WARNING]  
+> Makes warning
+
+> [!TIP]
+> Makes Tip
+
+> [!CAUTION]
+> Makes caution
